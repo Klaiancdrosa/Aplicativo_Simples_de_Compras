@@ -48,7 +48,7 @@ A interface do app foi criada usando **LinearLeyout**;
 O design é minimalista e fácil de usar, com foco na simplicidade e entendimento.
 
 ## Telas do App Simples de Compras
-**Telas da Tela principal**
+**Tela principal**
 Tela que permite ao usuário visualizar e selecionar os itens para o cálculo total.
 
 ![image](https://github.com/user-attachments/assets/d180f470-94e4-4cc1-a942-3d9bca38b83c)
